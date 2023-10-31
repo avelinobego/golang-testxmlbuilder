@@ -1,0 +1,13 @@
+<eSocial>
+    <evtInfoEmpregador Id="ID1123456780000002017082410324100001" fake="true">
+        <ideEvento>
+            <tpAmb>2</tpAmb>
+            <procEmi>1</procEmi>
+            <verProc>QuartaRH eSocial 1.0</verProc>
+            <avelino>
+                <bego><![CDATA[Sobrenome
+do Avelino]]></bego>
+            </avelino>
+        </ideEvento>
+    </evtInfoEmpregador>
+</eSocial>
